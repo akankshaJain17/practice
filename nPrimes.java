@@ -8,8 +8,8 @@ class Practice
 {
 	public static void main (String[] args)
 	{
-		int m = 10
-		nPrime(m);
+		int m = 10;
+		nPrimes(m);
 	 
 	}
 	
