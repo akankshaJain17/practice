@@ -1,0 +1,5 @@
+To Do
+1. implement a function which takes a limit M, and prints all the prime numbers from 1 to M
+
+DONE
+- 
