@@ -4,7 +4,10 @@ To Do
 Array:
 1. Given an array with N elements containing only 0s and 1s, sort them in a way that all 0s are to the left and 1s are to the right. For example: given array of 5 elements: arr = [0, 1, 1, 0, 1, 0] => [0, 0, 0, 1, 1, 1]
  - Solve the above with runtime complexity of O(n) and O(1) memory space
- 
+
+String:
+1. Given two strings - check if they are anagrams of each other ? Come up with atleast two approaches. 
+ - One approach should be done in O(n) runtime complexity and constant O(c) memory.
 
 
 DONE
